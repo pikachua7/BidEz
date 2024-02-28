@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: whitesmoke;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* App Page */
+.main-page-container {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(#287cb3,#bccbe9, rgb(255, 255, 255));
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.main-page-body {
+  margin-top: 100px;
+}
+
+.team-members {
+  div.MuiAvatar-root {
+    width: 35px !important;
+    height: 35Px !important;
+  }
+}
+
+table {
+  border: 1px solid navy;
+  padding: 8px;
+  tr,th {
+    text-align: left !important;
+    border-bottom: 2px solid navy;
+  }
+  thead, tbody {
+    border-bottom: 2px solid navy;
+    padding: 8px;
+  }
+}

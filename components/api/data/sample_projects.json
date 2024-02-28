@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Project Alpha",
+    "client_name": "Microsoft",
+    "bid_owner_id": 1,
+    "business_unit": "Accelerite Business Unit",
+    "status": "IN_PROGRESS",
+    "open_date": "2023-01-01",
+    "team_members": [
+      { "user_id": 3, "role": "Frontend developer" },
+      { "user_id": 4, "role": "Backend developer" },
+      { "user_id": 5, "role": "DevOps engineer" }
+    ]
+  },
+  {
+    "name": "Project Beta",
+    "client_name": "JPMorgan Chase",
+    "bid_owner_id": 2,
+    "business_unit": "Banking and Capital Market",
+    "status": "IN_PROGRESS",
+    "open_date": "2023-02-15",
+    "team_members": [
+      { "user_id": 3, "role": "Fullstack developer" },
+      { "user_id": 5, "role": "Backend developer" },
+      { "user_id": 6, "role": "Frontend developer" }
+    ]
+  },
+  {
+    "name": "Project Gamma",
+    "client_name": "Cerner",
+    "bid_owner_id": 1,
+    "business_unit": "Data HLS",
+    "status": "IN_PROGRESS",
+    "open_date": "2023-03-20",
+    "team_members": [
+      { "user_id": 4, "role": "DevOps engineer" },
+      { "user_id": 5, "role": "Fullstack developer" },
+      { "user_id": 6, "role": "Backend developer" }
+    ]
+  },
+  {
+    "name": "Project Delta",
+    "client_name": "Intuit",
+    "bid_owner_id": 2,
+    "business_unit": "FinTech_Taxation and Accounting",
+    "status": "CLOSED",
+    "open_date": "2022-05-30",
+    "close_date": "2022-12-01",
+    "team_members": [
+      { "user_id": 3, "role": "Backend developer" },
+      { "user_id": 4, "role": "Frontend developer" },
+      { "user_id": 6, "role": "DevOps engineer" }
+    ]
+  },
+  {
+    "name": "Project Epsilon",
+    "client_name": "UnitedHealth Group",
+    "bid_owner_id": 1,
+    "business_unit": "HLS Healthcare",
+    "status": "CLOSED",
+    "open_date": "2022-07-22",
+    "close_date": "2022-11-15",
+    "team_members": [
+      { "user_id": 3, "role": "Fullstack developer" },
+      { "user_id": 5, "role": "DevOps engineer" },
+      { "user_id": 6, "role": "Frontend developer" }
+    ]
+  }
+]

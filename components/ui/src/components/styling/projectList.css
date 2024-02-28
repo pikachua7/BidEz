@@ -1,0 +1,9 @@
+.card-footer-list {
+    min-width: 150px;
+    width: 150px;
+    max-width: 150px;
+    overflow: hidden;
+}
+.underlined-text {
+    text-decoration: none !important;
+}

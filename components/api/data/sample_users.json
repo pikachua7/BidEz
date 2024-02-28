@@ -1,0 +1,38 @@
+[
+  {
+    "email": "john_doe@example.com",
+    "firstname": "John",
+    "lastname": "Doe",
+    "password": "password"
+  },
+  {
+    "email": "jane_smith@example.com",
+    "firstname": "Jane",
+    "lastname": "Smith",
+    "password": "password"
+  },
+  {
+    "email": "michael_brown@example.com",
+    "firstname": "Michael",
+    "lastname": "Brown",
+    "password": "password"
+  },
+  {
+    "email": "lisa_white@example.com",
+    "firstname": "Lisa",
+    "lastname": "White",
+    "password": "password"
+  },
+  {
+    "email": "david_jones@example.com",
+    "firstname": "David",
+    "lastname": "Jones",
+    "password": "password"
+  },
+  {
+    "email": "emily_clark@example.com",
+    "firstname": "Emily",
+    "lastname": "Clark",
+    "password": "password"
+  }
+]

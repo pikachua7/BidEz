@@ -1,0 +1,9 @@
+.login-sign-button {
+    background-color: #043b6c !important;
+    color: white !important;
+    min-height: 48px !important;
+}
+.login-text-input {
+    background-color: rgb(255, 255, 255, 0.5);
+    color: black !important;
+}
